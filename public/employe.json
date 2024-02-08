@@ -1,0 +1,38 @@
+[
+    {
+        "id": "e1",
+        "nomEmp": "lamrabet",
+        "prenomEmp": "oussama",
+        "poste":"directeur",
+        "departement": [
+            {
+                "code": "1",
+                "nom": "RH"
+                
+            }
+        ]
+    },{
+        "id": "e2",
+        "nomEmp": "ouzani",
+        "prenomEmp": "hamed",
+        "poste":"secretaire",
+        "departement": [
+            {
+                "code": "2",
+                "nom": "It"
+                
+            }
+        ]
+    },{
+        "id": "e3",
+        "nomEmp": "hachimi",
+        "prenomEmp": "ali",
+        "poste":"secretaire",
+        "departement": [
+            {
+                "code": "3",
+                "nom": "It"
+                
+            }
+        ]
+    }]
